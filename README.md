@@ -7,3 +7,7 @@ Press "exit" to terminate
 
 For different computers 
 
+
+![image](https://github.com/Surbhi2000312/Java_Projects/assets/163031205/34bffc4b-d240-43c8-a669-ad00b29531cc)
+
+
